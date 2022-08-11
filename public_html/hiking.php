@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<head>
+<?php include_once("head.php"); ?>
+<title>Neil Guertin - Hiking</title>
+</head>
+
+<body id="hiking">
+<?php include_once("navbar.php"); ?>
+
+<div id="content">
+<p>I grew up hiking in the Adirondacks. My dad has climbed all 46 peaks over 4000 feet, I've done about half of them. As I've grown up and moved around I've started hiking in other places as well. Here is a list of some of the hikes I've done</p>
+
+<h2>Adirondacks</h2>
+<ul>
+<li>Dix Mountain - August 14, 2006</li>
+<li>Couchsachraga, Panther, Santanoni - August 16, 2006</li>
+<li>Cascade, Porter - August 26, 2006</li>
+<li>Giant Mountain - September 23, 2006</li>
+<li>Grace, Macomb, Carson - August 14, 2007</li>
+<li>Lower Wolfjaw Mountain - August 17, 2007</li>
+<li>Big Slide Mountain - October 18, 2007</li>
+<li>Mount Marshall - August 19, 2008</li>
+<li>Dial, Nippletop - August 12, 2009</li>
+<li>Sawteeth - August 10, 2010</li>
+<li>Seymour Mountain - August 16, 2011</li>
+<li>Gray, Marcy, Skylight - August 7, 2012</li>
+<li>Hough Peak - August 13, 2012</li>
+<li>Mount Colden - June 3, 2017</li>
+<li>Iroquois, Algonquin, Wright - June 4, 2017</li>
+</ul>
+
+<h2>White Mountains</h2>
+<ul>
+<li>Mount Lafayette - July 23, 2016</li>
+<li>Presidential Traverse - November 5, 2016</li>
+<li>Mount Washington - July 2017</li>
+<li>Mount Carrigain - June 10, 2018</li>
+<li>Franconia Ridge - June 11, 2018</li>
+<li>Mount Eisenhower - July 2018</li>
+<li> 
+</ul>
+
+<h2>Pennsylvania</h2>
+<ul>
+<li>Black Forest Trail - Tiadaghton State Forest, PA - March 13, 2017</li>
+</ul>	
+</div>
+
+<?php include_once("footer.php"); ?>
+</body>
+</html>

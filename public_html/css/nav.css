@@ -1,0 +1,57 @@
+nav ul {
+	display: flex;
+	padding-left: 0;
+}
+
+nav ul li {
+	flex: auto;
+
+	list-style: none;
+	text-align: center;
+	border-top: 2px solid #839496;
+	border-bottom: 2px solid #839496;
+}
+
+nav ul li a {
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	color: #839496;
+	text-decoration: none;
+}
+nav ul li a:hover {
+	background-color: #eee8d5;
+}
+
+/* Current page */
+#home #navbar-home,
+#about #navbar-about,
+#dotfiles #navbar-dotfiles,
+#resume #navbar-resume,
+#hiking #navbar-hiking,
+#running #navbar-running,
+#links #navbar-links {
+	border-top: 2px solid #586e75;
+	border-bottom: 2px solid #586e75;
+}
+
+
+/* Solarized colors
+$base03:    #002b36;
+$base02:    #073642;
+$base01:    #586e75;
+$base00:    #657b83;
+$base0:     #839496;
+$base1:     #93a1a1;
+$base2:     #eee8d5;
+$base3:     #fdf6e3;
+$yellow:    #b58900;
+$orange:    #cb4b16;
+$red:       #dc322f;
+$magenta:   #d33682;
+$violet:    #6c71c4;
+$blue:      #268bd2;
+$cyan:      #2aa198;
+$green:     #859900;
+*/
