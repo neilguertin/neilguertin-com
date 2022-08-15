@@ -8,20 +8,21 @@ nav ul li {
 
 	list-style: none;
 	text-align: center;
-	border-top: 2px solid #839496;
-	border-bottom: 2px solid #839496;
+	border-top: 2px solid var(--base01);
+	border-bottom: 2px solid var(--base01);
 }
 
-nav ul li a {
+nav ul li a, 
+nav ul li a:visited {
 	display: block;
 	padding-top: 5px;
 	padding-bottom: 5px;
 
-	color: #839496;
+	color: var(--base00);
 	text-decoration: none;
 }
 nav ul li a:hover {
-	background-color: #eee8d5;
+	background-color: var(--base02);
 }
 
 /* Current page */
@@ -32,26 +33,6 @@ nav ul li a:hover {
 #hiking #navbar-hiking,
 #running #navbar-running,
 #links #navbar-links {
-	border-top: 2px solid #586e75;
-	border-bottom: 2px solid #586e75;
+	border-top: 2px solid var(--base1);
+	border-bottom: 2px solid var(--base1);
 }
-
-
-/* Solarized colors
-$base03:    #002b36;
-$base02:    #073642;
-$base01:    #586e75;
-$base00:    #657b83;
-$base0:     #839496;
-$base1:     #93a1a1;
-$base2:     #eee8d5;
-$base3:     #fdf6e3;
-$yellow:    #b58900;
-$orange:    #cb4b16;
-$red:       #dc322f;
-$magenta:   #d33682;
-$violet:    #6c71c4;
-$blue:      #268bd2;
-$cyan:      #2aa198;
-$green:     #859900;
-*/
