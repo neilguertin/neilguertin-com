@@ -13,7 +13,7 @@
 <h2>Races</h2>
 
 <?php
-$f = fopen("files/race_results.csv", "r");
+$f = fopen("race_results.csv", "r");
 // Read header
 $line = fgetcsv($f);
 ?>
