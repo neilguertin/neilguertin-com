@@ -1,0 +1,25 @@
+Users
+ Friend/family just curious
+ Prospective employer
+ Acquaintance
+
+Requirements
+ Look professional/cool/impressive
+ Link to Gallery
+ Pages for other stuff??
+ Links to other online presence
+  LinkedIn
+  Github
+  Openstreetmap?
+  Twitter?
+ Profile picture
+
+About me:
+ Bird Photos
+  I take bird photos for fun. Check out my <gallery>.
+ Software
+  I am a Software Quality Engineer. I worked for five years at MathWorks and am now looking for a remote position in Programming Languages, Operating Systems, or other computing industries. See my <resume> for more information.
+ Running
+  I am a competitive runner. My favorite event is the mile (4:39.52) but I run everything from the 800 to the Marathon.
+ OSM?
+
