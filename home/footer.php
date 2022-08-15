@@ -1,3 +1,3 @@
 <footer>
-	&copy; Neil Guertin 2019
+	&copy; Neil Guertin 2022
 </footer>
