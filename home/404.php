@@ -1,8 +1,17 @@
-<html>
+<!DOCTYPE html>
+
 <head>
-<title>404</title>
+<?php include_once("head.php"); ?>
+<title>Neil Guertin - 404</title>
 </head>
-<body>
-404
+
+<body id="404">
+<?php include_once("navbar.php"); ?>
+
+<div id="content">
+	<p>404</p>
+</div>
+
+<?php include_once("footer.php"); ?>
 </body>
 </html>
