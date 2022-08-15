@@ -8,6 +8,8 @@
 		-->
 		<li id="navbar-links"><a href="/links.php">Links</a></li>
 		<li id="navbar-resume"><a href="/resume.php">Resume</a></li>
+		<!--
 		<li id="navbar-running"><a href="/running.php">Running</a></li>
+		-->
 	</ul>
 </nav>
