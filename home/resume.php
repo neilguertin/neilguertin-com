@@ -11,9 +11,7 @@
 <div id="content">
 
 <h2>Resume</h2>
-<ul>
-<li><a href=NeilGuertinResume.pdf>PDF Version</a></li>
-</ul>
+<p><a href=NeilGuertinResume.pdf>PDF Version</a></p>
 <p>Last updated November 2019</p>
 
 </div>
