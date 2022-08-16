@@ -12,7 +12,7 @@
 
 <h2>Resume</h2>
 <p><a href=NeilGuertinResume.pdf>PDF Version</a></p>
-<p>Last updated November 2019</p>
+<p>Last updated August 2022</p>
 
 </div>
 
