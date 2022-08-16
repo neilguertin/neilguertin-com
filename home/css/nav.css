@@ -15,10 +15,11 @@ nav ul li {
 nav ul li a, 
 nav ul li a:visited {
 	display: block;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 
 	color: var(--col_content_main);
+	font-size: large;
 	text-decoration: none;
 }
 nav ul li a:hover {

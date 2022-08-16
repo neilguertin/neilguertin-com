@@ -16,8 +16,7 @@
 <?php include_once("navbar.php"); ?>
 
 <div id="content">
-<h2>Programming Links</h2>
-Basically just a public bookmarks list.
+Basically just a public bookmarks list of computing articles I found interesting.
 
 <h3>Big Picture</h3>
 <ul>
@@ -77,7 +76,7 @@ Basically just a public bookmarks list.
 <li><a href="http://motherfuckingwebsite.com/">Motherfucking Website</a></li>
 <li><a href="https://sonniesedge.co.uk/talks/dear-developer">Dear Developer, The Web Isn't About You</a></li>
 <li>[Video] <a href="https://www.youtube.com/watch?v=QM1iUe6IofM">Object-Oriented Programming is Bad</a></li>
-<li>[UX] <a href="http://input-delay.glitch.me/"Typing delay experiment</a></li>
+<li>[UX] <a href="http://input-delay.glitch.me/">Typing delay experiment</a></li>
 <li><a href="https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html">Stop Using Encrypted Email</a></li>
 <li>[UX] <a href="http://blog.preinheimer.com/index.php?/archives/372-An-end-to-if-statements-presented-by-Computers.html">An end to if statements presented by Computers</a></li>
 </ul>

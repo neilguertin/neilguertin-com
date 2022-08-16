@@ -7,12 +7,14 @@
 
 <body id="home">
 
-<h1>NEIL GUERTIN</h1>
 <?php include_once("navbar.php"); ?>
+<h1>NEIL GUERTIN</h1>
 
 <div id="content">
+<!--
 	<p>Noodle's Thing</p>
 	<img src="images/profile.jpg" width=100% alt="Neil Guertin">
+-->
 </div>
 
 <?php include_once("footer.php"); ?>
