@@ -8,8 +8,8 @@ nav ul li {
 
 	list-style: none;
 	text-align: center;
-	border-top: 2px solid var(--base01);
-	border-bottom: 2px solid var(--base01);
+	border-top: 2px solid var(--col_content_dull);
+	border-bottom: 2px solid var(--col_content_dull);
 }
 
 nav ul li a, 
@@ -18,11 +18,11 @@ nav ul li a:visited {
 	padding-top: 5px;
 	padding-bottom: 5px;
 
-	color: var(--base00);
+	color: var(--col_content_main);
 	text-decoration: none;
 }
 nav ul li a:hover {
-	background-color: var(--base02);
+	background-color: var(--col_bg_highlight);
 }
 
 /* Current page */
@@ -33,6 +33,6 @@ nav ul li a:hover {
 #hiking #navbar-hiking,
 #running #navbar-running,
 #links #navbar-links {
-	border-top: 2px solid var(--base1);
-	border-bottom: 2px solid var(--base1);
+	border-top: 2px solid var(--col_content_bold);
+	border-bottom: 2px solid var(--col_content_bold);
 }
