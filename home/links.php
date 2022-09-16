@@ -79,6 +79,9 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li>[UX] <a href="http://input-delay.glitch.me/">Typing delay experiment</a></li>
 <li><a href="https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html">Stop Using Encrypted Email</a></li>
 <li>[UX] <a href="http://blog.preinheimer.com/index.php?/archives/372-An-end-to-if-statements-presented-by-Computers.html">An end to if statements presented by Computers</a></li>
+<li><a href="https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5">I’m harvesting credit card numbers and passwords from your site. Here’s how.</a></li>
+<li><a href="https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9">Part 2: How to stop me harvesting credit card numbers and passwords from your site</a></li>
+<li><a href="ihttps://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html">After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.</a></li>
 </ul>
 
 <h3>Humor</h3>
