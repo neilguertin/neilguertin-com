@@ -63,6 +63,7 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li><a href="https://blog.fosketts.net/2019/04/06/gps-time-rollover-failures-keep-happening-but-theyre-almost-done/">GPS Time Rollover Failures Keep Happening (But They’re Almost Done)</a></li>
 <li><a href="https://chameth.com/break-everything-fuzz-testing/">How to break everything by fuzz testing</a></li>
 <li><a href="https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/">How I cut GTA Online loading times by 70%</a></li>
+<li><a href="https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df">The curious case of the disappearing Polish S</a></li>
 </ul>
 
 <h3>Rants</h3>
@@ -81,7 +82,7 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li>[UX] <a href="http://blog.preinheimer.com/index.php?/archives/372-An-end-to-if-statements-presented-by-Computers.html">An end to if statements presented by Computers</a></li>
 <li><a href="https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5">I’m harvesting credit card numbers and passwords from your site. Here’s how.</a></li>
 <li><a href="https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9">Part 2: How to stop me harvesting credit card numbers and passwords from your site</a></li>
-<li><a href="ihttps://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html">After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.</a></li>
+<li><a href="https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html">After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.</a></li>
 </ul>
 
 <h3>Humor</h3>
