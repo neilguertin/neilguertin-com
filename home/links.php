@@ -34,6 +34,7 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li>[Video][C++] <a href="https://www.youtube.com/watch?v=vGV5u1nxqd8">C++Now 2018: Mark Zeren "-Os Matters"</a></li>
 <li><a href="https://css-tricks.com/the-art-of-comments/">The Art of Comments</a></li>
 <li><a href="https://www.eff.org/wp/behind-the-one-way-mirror">Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance</a></li>
+<li><a href="https://ansuz.sooke.bc.ca/entry/23">What Colour are your bits?</a></li>
 </ul>
 
 <h3>True Stories</h3>
