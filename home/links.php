@@ -35,6 +35,7 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li><a href="https://css-tricks.com/the-art-of-comments/">The Art of Comments</a></li>
 <li><a href="https://www.eff.org/wp/behind-the-one-way-mirror">Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance</a></li>
 <li><a href="https://ansuz.sooke.bc.ca/entry/23">What Colour are your bits?</a></li>
+<li><a href="https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech">How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web</a></li>
 </ul>
 
 <h3>True Stories</h3>
