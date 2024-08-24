@@ -21,7 +21,7 @@ Basically just a public bookmarks list of computing articles I found interesting
 <h3>Big Picture</h3>
 <ul>
 <li class=goldstar><a href="https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/">The Coming Software Apocalypse</a></li>
-<li><a href="https://arstechnica.com/security/2016/06/how-linkedins-password-sloppiness-hurts-us-all/">How LinkedIn's password sloppiness hurts us all</a></li>
+<li>[Security]<a href="https://arstechnica.com/security/2016/06/how-linkedins-password-sloppiness-hurts-us-all/">How LinkedIn's password sloppiness hurts us all</a></li>
 <li><a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/">The Law of Leaky Abstractions</a></li>
 <li><a href="https://www.martinfowler.com/bliki/TechnicalDebt.html">Technical Debt</a></li>
 <li>[C++] <a href="https://www.technologyreview.com/s/406923/the-problem-with-programming/">The Problem with Programming</a></li>
@@ -36,6 +36,10 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li><a href="https://www.eff.org/wp/behind-the-one-way-mirror">Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance</a></li>
 <li><a href="https://ansuz.sooke.bc.ca/entry/23">What Colour are your bits?</a></li>
 <li><a href="https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech">How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web</a></li>
+<li>[Security]<a href="https://pluralistic.net/2024/02/05/cyber-dunning-kruger/">Cory Doctorow: How I got scammed</a></li>
+<li>[AI]<a href="https://www.citationneeded.news/ai-isnt-useless/">AI isn't useless. But is it worth it?</a></li>
+<li>[Security]<a href="https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/">Passkeys: A Shattered Dream</a></li>
+<li>[Security]<a href="https://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/">"A Story About Jessica" by SwiftOnSecurity</a></li>
 </ul>
 
 <h3>True Stories</h3>
@@ -85,6 +89,9 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li><a href="https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5">I’m harvesting credit card numbers and passwords from your site. Here’s how.</a></li>
 <li><a href="https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9">Part 2: How to stop me harvesting credit card numbers and passwords from your site</a></li>
 <li><a href="https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html">After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.</a></li>
+<li>[JS]<a href="https://tonsky.me/blog/js-bloat/">JavaScript Bloat in 2024</a></li>
+<li>[JS]<a href="https://tonsky.me/blog/centering/">Hardest Problem in Computer Science: Centering Things</a></li>
+<li>[AI]<a href="https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/">I Will Fucking Piledrive You If You Mention AI Again</a></li>
 </ul>
 
 <h3>Humor</h3>
@@ -102,6 +109,16 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li><a href="https://wonderingminstrels.blogspot.com/2004/01/telnet-song-guy-l-steele-jr.html">Telnet Song</a></li>
 <li><a href="https://udel.edu/~mm/xmas/">xmas.c</a></li>
 </ul>
+
+<h3>Teaching</h3>
+<ul>
+<li>[CSS]<a href="https://every-layout.dev/rudiments/">Every Layout: Relearn CSS layout by example (Rudiments and Axioms)</a></li>
+<li>[Vimscript] <a href="http://learnvimscriptthehardway.stevelosh.com/">Learn Vimscript the Hard Way by Steve Losh</a></li>
+<li>[Git]<a href="https://martinheinz.dev/blog/109">Modern Git Commands and Features You Should Be Using</a></li>
+<li><a href="https://explained-from-first-principles.com/email/">Email explained from first principles</a></li>
+</ul>
+
+<!--<h3>Cool Projects</h3>-->
 
 <h3>Other Stuff</h3>
 <ul>
@@ -123,9 +140,8 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li><a href="https://github.com/kdeldycke/awesome-falsehood">A curated list of falsehoods programmers believe in.</a></li>
 <li>[Video] <a href="https://www.youtube.com/watch?v=7EmboKQH8lM">Clean Code - Uncle Bob</a></li>
 <li><a href="https://wiki.csswg.org/ideas/mistakes">Incomplete List of Mistakes in the Design of CSS</a></li>
-
-
-
+<li><a href="https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/">The (Mostly) Complete Unicode Spiral</a></li>
+<li><a href="https://eieio.games/nonsense/game-11-flappy-bird-finder/">Flappy Bird implemented in MacOS Finder</a></li>
 </ul>
 
 <!--
@@ -144,6 +160,7 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li><a href="https://jeremykun.com/">Math ∩ Programming</a></li>
 <li><a href="http://datagenetics.com/blog.html">DataGenetics</a></li>
 <li>[Video] <a href="https://www.youtube.com/user/Computerphile">Computerphile</a></li>
+<li><a href="https://www.chiark.greenend.org.uk/~sgtatham/">Simon Tatham</a></li>
 </ul>
 
 <h3>Books</h3>
@@ -151,7 +168,6 @@ Basically just a public bookmarks list of computing articles I found interesting
 <li><a href="https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach">Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma">Alan Turing: The Enigma by Andrew Hodges</a></li>
 <li><a href="https://www.mathworks.com/moler/chapters.html">Numerical Computing with MATLAB by Cleve Moler</a></li>
-<li>[Vimscript] <a href="http://learnvimscriptthehardway.stevelosh.com/">Learn Vimscript the Hard Way by Steve Losh</a></li>
 <li><a href="http://jeffe.cs.illinois.edu/teaching/algorithms/">Algorithms by Jeff Erickson</a></li>
 <li><a href="https://www.fuzzingbook.org/">The Fuzzing Book by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler</a></li>
 </ul>
