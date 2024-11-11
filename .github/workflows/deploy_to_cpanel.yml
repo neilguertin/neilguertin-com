@@ -1,17 +1,14 @@
 name: Publish Website to CPanel
-on:
-  push:
-  pull_request:
-  workflow_dispatch:
+on: push
 jobs:
-  deploy:
+  web-deploy:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
     - name: Get latest code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.3.3
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
