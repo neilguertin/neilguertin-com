@@ -1,0 +1,49 @@
+:root {
+    /* Solarized colors */
+    --sol_base03:    #002b36;
+    --sol_base02:    #073642;
+    --sol_base01:    #586e75;
+    --sol_base00:    #657b83;
+    --sol_base0:     #839496;
+    --sol_base1:     #93a1a1;
+    --sol_base2:     #eee8d5;
+    --sol_base3:     #fdf6e3;
+    --sol_yellow:    #b58900;
+    --sol_orange:    #cb4b16;
+    --sol_red:       #dc322f;
+    --sol_magenta:   #d33682;
+    --sol_violet:    #6c71c4;
+    --sol_blue:      #268bd2;
+    --sol_cyan:      #2aa198;
+    --sol_green:     #859900;
+
+
+    /* My colors (from piwigo modus quartz) */
+    --pmq_bg:    #1E1F23;
+    --pmq_bg_highlight: #2F3032;
+    --pmq_text_dull: #666;
+    --pmq_text:  #eaeae9;
+    --pmq_blue: #6BA1FF;
+    --pmq_text_in_search_box: #848588;
+    --pmq_content_dull: #616364;
+
+
+
+    /* Used colors */
+    /*
+    --col_bg_main:      var(--sol_base03);
+    --col_bg_highlight: var(--sol_base02);
+    --col_content_dull: var(--sol_base01);
+    --col_content_main: var(--sol_base0);
+    --col_content_bold: var(--sol_base1);
+    --col_blue: var(--sol_blue);
+    --col_violet: var(--sol_violet);
+    */
+    --col_bg_main:      var(--pmq_bg);
+    --col_bg_highlight: var(--pmq_bg_highlight);
+    --col_content_dull: var(--pmq_text_dull);
+    --col_content_main: var(--pmq_text);
+    --col_content_bold: #eee;
+    --col_blue: var(--pmq_blue);
+    --col_violet: var(--pmq_blue);
+}

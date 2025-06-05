@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-
-<head>
-<meta charset="utf-8"/>
-<?php include_once("head.php"); ?>
-<title>Neil Guertin - Running</title>
-</head>
-
-<body id="running">
-<?php include_once("navbar.php"); ?>
-
-<div id="content">
+---
+layout: default
+title: Running
+permalink: /running
+id: running
+---
 <h2>Races</h2>
 
 <?php
@@ -52,14 +46,6 @@ while (($line = fgetcsv($f)) !== false) {
 </table>
 
 <?php fclose($f); ?>
-
-
-
-</div>
-
-<?php include_once("footer.php"); ?>
-</body>
-</html>
 
 <?php
 function print_line($line){

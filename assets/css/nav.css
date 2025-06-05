@@ -27,13 +27,13 @@ nav ul li a:hover {
 }
 
 /* Current page */
-#home #navbar-home,
-#about #navbar-about,
-#dotfiles #navbar-dotfiles,
-#resume #navbar-resume,
-#hiking #navbar-hiking,
-#running #navbar-running,
-#links #navbar-links {
+#body-home #navbar-home,
+#body-about #navbar-about,
+#body-dotfiles #navbar-dotfiles,
+#body-resume #navbar-resume,
+#body-hiking #navbar-hiking,
+#body-running #navbar-running,
+#body-links #navbar-links {
     border-top: 2px solid var(--col_content_bold);
     border-bottom: 2px solid var(--col_content_bold);
 }

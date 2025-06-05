@@ -1,0 +1,20 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include head.html %}
+    </head>
+    <body id="body-{{page.id}}">
+        <header>
+            {% include navigation.html %}
+        </header>
+        <main id="content">
+            {{ content }}
+        </main>
+        <footer>
+            {% include footer.html %}
+        </footer>
+    </body>
+</html>
