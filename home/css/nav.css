@@ -1,29 +1,29 @@
 nav ul {
-	display: flex;
-	padding-left: 0;
+    display: flex;
+    padding-left: 0;
 }
 
 nav ul li {
-	flex: auto;
+    flex: auto;
 
-	list-style: none;
-	text-align: center;
-	border-top: 2px solid var(--col_content_dull);
-	border-bottom: 2px solid var(--col_content_dull);
+    list-style: none;
+    text-align: center;
+    border-top: 2px solid var(--col_content_dull);
+    border-bottom: 2px solid var(--col_content_dull);
 }
 
-nav ul li a, 
+nav ul li a,
 nav ul li a:visited {
-	display: block;
-	padding-top: 10px;
-	padding-bottom: 10px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
-	color: var(--col_content_main);
-	font-size: large;
-	text-decoration: none;
+    color: var(--col_content_main);
+    font-size: large;
+    text-decoration: none;
 }
 nav ul li a:hover {
-	background-color: var(--col_bg_highlight);
+    background-color: var(--col_bg_highlight);
 }
 
 /* Current page */
@@ -34,6 +34,6 @@ nav ul li a:hover {
 #hiking #navbar-hiking,
 #running #navbar-running,
 #links #navbar-links {
-	border-top: 2px solid var(--col_content_bold);
-	border-bottom: 2px solid var(--col_content_bold);
+    border-top: 2px solid var(--col_content_bold);
+    border-bottom: 2px solid var(--col_content_bold);
 }

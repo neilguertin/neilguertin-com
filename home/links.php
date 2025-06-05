@@ -2,7 +2,7 @@
 
 <style>
 .goldstar {
-	list-style: "★ ";
+    list-style: "★ ";
 }
 </style>
 

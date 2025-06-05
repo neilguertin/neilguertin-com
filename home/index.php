@@ -12,8 +12,8 @@
 
 <div id="content">
 <!--
-	<p>Noodle's Thing</p>
-	<img src="images/profile.jpg" width=100% alt="Neil Guertin">
+    <p>Noodle's Thing</p>
+    <img src="images/profile.jpg" width=100% alt="Neil Guertin">
 -->
 </div>
 

@@ -38,13 +38,13 @@
 <li>Mount Carrigain - June 10, 2018</li>
 <li>Franconia Ridge - June 11, 2018</li>
 <li>Mount Eisenhower - July 2018</li>
-<li> 
+<li>
 </ul>
 
 <h2>Pennsylvania</h2>
 <ul>
 <li>Black Forest Trail - Tiadaghton State Forest, PA - March 13, 2017</li>
-</ul>	
+</ul>
 </div>
 
 <?php include_once("footer.php"); ?>

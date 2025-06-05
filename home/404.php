@@ -9,7 +9,7 @@
 <?php include_once("navbar.php"); ?>
 
 <div id="content">
-	<p>404</p>
+    <p>404</p>
 </div>
 
 <?php include_once("footer.php"); ?>

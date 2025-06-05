@@ -24,7 +24,7 @@ $line = fgetcsv($f);
 <tr><td><h4>Date</h4></td><td><h4>Race Name</h4></td><td><h4>Location</h4></td><td><h4>Dist</h4></td><td><h4>Time</h4></td><td><h4>Place</h4></td><td><h4>Full Results</h4></td></tr>
 <?php
 for ($i = 0; $i < 28; $i++) {
-	$line = fgetcsv($f);
+    $line = fgetcsv($f);
     print_line($line);
 }
 ?>
@@ -35,7 +35,7 @@ for ($i = 0; $i < 28; $i++) {
 <tr><td><h4>Date</h4></td><td><h4>Race Name</h4></td><td><h4>Location</h4></td><td><h4>Dist</h4></td><td><h4>Time</h4></td><td><h4>Place</h4></td><td><h4>Full Results</h4></td></tr>
 <?php
 for ($i = 0; $i < 18; $i++) {
-	$line = fgetcsv($f);
+    $line = fgetcsv($f);
     print_line($line);
 }
 ?>
@@ -63,17 +63,17 @@ while (($line = fgetcsv($f)) !== false) {
 
 <?php
 function print_line($line){
-	    echo "<tr>";
-		for ($j=0; $j<6 && $j<count($line); $j++) {
-			echo "<td>" . htmlspecialchars(trim($line[$j])) . "</td>";
-		}
-		if(count($line)>=7){
-			echo "<td><a href=\"" . trim($line[6]) . "\">Results</a>";
-				if(count($line)==8){
-					echo " <a href=\"" . trim($line[7]) . "\">Results</a>";
-				}
-			echo "</td>";
-		}
+        echo "<tr>";
+        for ($j=0; $j<6 && $j<count($line); $j++) {
+            echo "<td>" . htmlspecialchars(trim($line[$j])) . "</td>";
+        }
+        if(count($line)>=7){
+            echo "<td><a href=\"" . trim($line[6]) . "\">Results</a>";
+                if(count($line)==8){
+                    echo " <a href=\"" . trim($line[7]) . "\">Results</a>";
+                }
+            echo "</td>";
+        }
         echo "</tr>\n";
 }
 ?>
