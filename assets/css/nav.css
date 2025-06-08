@@ -34,6 +34,7 @@ nav ul li a:hover {
 #body-resume #navbar-resume,
 #body-hiking #navbar-hiking,
 #body-running #navbar-running,
+#body-reading #navbar-reading,
 #body-links #navbar-links {
     border-top: 2px solid var(--col_content_bold);
     border-bottom: 2px solid var(--col_content_bold);

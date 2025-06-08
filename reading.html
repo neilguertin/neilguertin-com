@@ -1,0 +1,56 @@
+---
+layout: default
+title: Reading
+id: reading
+permalink: /reading
+---
+<style>
+.book {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.book-cover {
+    display: inline-block;
+    vertical-align: top;
+    height: 150px;
+    width: 150px;
+}
+.book-cover img {
+    height: 150px;
+    width: 150px;
+    max-height: 100%;
+    max-width: 100%;
+}
+.book-info {
+    display: inline-block;
+    vertical-align: top;
+}
+</style>
+
+<h2>Reading</h2>
+<p>I try to read every day, and my goal this year is 36 books (3 per month). I try to read a wide variety of books, fiction and non-fiction, different genres, male and female authors, old and new, owned and borrowed, paper and ebook, and so on. But I keep coming back to SciFi and Fantasy.</p>
+
+<p>Here is what I've read recently:</p>
+
+{% for year in site.data.reading %}
+<hr>
+<h3>{{ year.year }}</h3>
+{% for book in year.books %}
+<div class="book">
+<div class="book-cover">
+    <img src="/{{site.baseurl}}assets/images/books/placeholder.png" alt="Cover for {{ book.title }}">
+</div>
+<div class="book-info">
+<b>{{ book.title }}</b><br>
+<i>{{ book.author }}</i><br>
+{{ book.pages | floor }} pages<br>
+{% for i in (1..book.rating) %}★{% endfor %}{% for i in (book.rating..4) %}☆{% endfor %}
+{% if book.review %}<p>{{ book.review }}</p>{% endif %}
+</div>
+</div>
+{% endfor %}
+{% endfor %}
+
+
+
+

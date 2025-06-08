@@ -1,0 +1,268 @@
+- year: 2025
+  books:
+    - title: Random in Death
+      author: J. D. Robb
+      pages: 357
+      rating: 2
+    - title: "Kinauvit?: What’s Your Name?"
+      author: Dr. Norma Dunning
+      pages: 152
+      rating: 3
+    - title: The Way the Crow Flies
+      author: Ann-Marie MacDonald
+      pages: 805
+      rating: 4
+    - title: The Curious Incident of the Dog in the Night-Time
+      author: Mark Haddon
+      pages: 225
+      rating: 3
+    - title: Gödel, Escher, Bach
+      author: Douglas Hofstadter
+      pages: 705
+      rating: 2
+    - title: Towers of Midnight
+      author: Robert Jordan and Brandon Sanderson
+      pages: 1218
+      rating: 4
+    - title: Around the World in Eighty Days
+      author: Jules Verne
+      pages: 228.4
+      rating: 4
+    - title: The Wonderful Wizard of Oz
+      author: L. Frank Baum
+      pages: 131.2
+      rating: 3
+    - title: Someone Comes to Town, Someone Leaves Town
+      author: Cory Doctorow
+      pages: 359.6
+      rating: 3
+    - title: The Adventures of Sherlock Homes
+      author: Arthur Conan Doyle
+      pages: 334
+      rating: 3
+    - title: All the Light We Cannot See
+      author: Anthony Doerr
+      pages: 492
+      rating: 5
+    - title: The Sign of the Four
+      author: Arthur Conan Doyle
+      pages: 136.8
+      rating: 3
+- year: 2024
+  books:
+    - title: The Phantom Tollbooth
+      author: Norton Juster
+      pages: 215
+      rating: 3
+    - title: Pirate Cinema
+      author: Cory Doctorow
+      pages: 323.2
+      rating: 4
+    - title: "The Diamond Age: Or, A Young Lady’s Illustrated Primer"
+      author: Neal Stephenson
+      pages: 497
+      rating: 3
+    - title: How to Live Safely in a Science Fictional Universe
+      author: Charles Yu
+      pages: 220
+      rating: 2
+    - title: The Cactus League
+      author: Emily Nemens
+      pages: 269
+      rating: 3
+    - title: The Worst Journey in the World
+      author: Apsley Cherry-Garrard
+      pages: 811.2
+      rating: 5
+    - title: Long Chills and Case Dough
+      author: Brandon Sanderson
+      pages: 41.2
+      rating: 3
+    - title: The Mysterious Affair at Styles
+      author: Agatha Christie
+      pages: 204
+      rating: 4
+    - title: The Gathering Storm
+      author: Robert Jordan and Brandon Sanderson
+      pages: 1071
+      rating: 4
+    - title: The Murder of Roger Ackroyd
+      author: Agatha Christie
+      pages: 245.6
+      rating: 5
+    - title: A Study in Scarlet
+      author: Arthur Conan Doyle
+      pages: 142.8
+      rating: 3
+    - title: Red Rising
+      author: Pierce Brown
+      pages: 375
+      rating: 4
+    - title: The End of Mr. Y
+      author: Scarlett Thomas
+      pages: 500
+      rating: 4
+    - title: Yumi and the Nightmare Painter
+      author: Brandon Sanderson
+      pages: 435
+      rating: 4
+    - title: The Well of Lost Plots
+      author: Jasper Fforde
+      pages: 375
+      rating: 4
+    - title: A Wrinkle In Time
+      author: Madeleine L’Engle
+      pages: 226
+      rating: 3
+    - title: "Arctic Convoys: Bletchley Park and the War for the Seas"
+      author: David Kenyon
+      pages: 268
+      rating: 3
+    - title: Turtles All the Way Down
+      author: John Green
+      pages: 286
+      rating: 4
+    - title: Hazards of Time Travel
+      author: Joyce Carol Oates
+      pages: 299
+      rating: 2
+    - title: American Dirt
+      author: Jeanine Cummins
+      pages: 378
+      rating: 5
+    - title: "Paved Paradise: How Parking Explains the World"
+      author: Henry Grabar
+      pages: 284
+      rating: 3
+    - title: The Sunlit Man
+      author: Brandon Sanderson
+      pages: 433
+      rating: 3
+    - title: Great Expectations
+      author: Charles Dickens
+      pages: 507
+      rating: 4
+    - title: "Colossus: Bletchley Park’s Greatest Secret"
+      author: Paul Gannon
+      pages: 506
+      rating: 4
+    - title: Sabriel
+      author: Garth Nix
+      pages: 491
+      rating: 3
+    - title: Lost in a Good Book
+      author: Jasper Fforde
+      pages: 399
+      rating: 5
+    - title: The Girl Who Played With Fire
+      author: Stieg Larsson
+      pages: 494
+      rating: 4
+    - title: Trust
+      author: Hernan Diaz
+      pages: 366
+      rating: 3
+    - title: "Enigma: The Battle for the Code"
+      author: Hugh Sebag-Montefiore
+      pages: 353
+      rating: 2
+- year: 2023
+  books:
+    - title: The Princess Bride
+      author: William Goldman
+      pages: 458
+      rating: 4
+    - title: Neverwhere
+      author: Neil Gaiman
+      pages: 305
+      rating: 4
+    - title: An Abundance of Katherines
+      author: John Green
+      pages: 224
+      rating: 2
+    - title: This is How You Lose the Time War
+      author: Amal El-Mohtar and Max Gladstone
+      pages: 198
+      rating: 5
+    - title: The Athlete’s Gut
+      author: Patrick Wilson
+      pages: 244
+      rating: 2
+    - title: Good Omens
+      author: Terry Pratchett & Neil Gaiman
+      pages: 394
+      rating: 2
+    - title: Anathem
+      author: Neal Stephenson
+      pages: 932
+      rating: 5
+    - title: The Windup Girl
+      author: Paolo Bacigalupi
+      pages: 359
+      rating: 4
+    - title: Cloud Cuckoo Land
+      author: Anthony Doerr
+      pages: 425
+      rating: 5
+    - title: The End of Everything (Astrophysically Speaking)
+      author: Katie Mack
+      pages: 215
+      rating: 3
+    - title: The Frugal Wizard’s Handbook for Surviving Medieval England
+      author: Brandon Sanderson
+      pages: 355
+      rating: 4
+    - title: Knife of Dreams
+      author: Robert Jordan
+      pages: 836
+      rating: 3
+    - title: A Beautifully Foolish Endeavor
+      author: Hank Green
+      pages: 449
+      rating: 4
+    - title: The Girl with the Dragon Tattoo
+      author: Stieg Larsson
+      pages: 631
+      rating: 5
+    - title: Tress of the Emerald Sea
+      author: Brandon Sanderson
+      pages: 415
+      rating: 4
+    - title: An Absolutely Remarkable Thing
+      author: Hank Green
+      pages: 327
+      rating: 5
+    - title: Snow Crash
+      author: Neal Stephenson
+      pages: 557
+      rating: 4
+    - title: Boston Marathon
+      author: Tom Derderian
+      pages: 815
+      rating: 2
+- year: 2022
+  books:
+    - title: Fall; or, Dodge in Hell
+      author: Neal Stephenson
+      pages: 857
+      rating: 5
+    - title: The Eyre Affair
+      author: Jasper Fforde
+      pages: 374
+      rating: 5
+    - title: The Rise and Fall of D.O.D.O.
+      author: Nicole Galland and Neal Stephenson
+      pages: 742
+      rating: 5
+    - title: Crossroads of Twilight
+      author: Robert Jordan
+      pages: 823
+      rating: 3
+    - title: The Hero of Ages
+      author: Brandon Sanderson
+      pages: 528
+      rating: 5
+    - title: Homeland
+      author: Cory Doctorow
+      pages: 324
+      rating: 3
