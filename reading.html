@@ -27,16 +27,49 @@ permalink: /reading
 }
 </style>
 
+<script>
+    // Show/hide books
+    function showAllBooks() {
+        var books = document.getElementsByClassName('book');
+        for (let book of books) {
+            book.style.display = '';
+        }
+        document.getElementById('show-button').style.display = 'none';
+        document.getElementById('hide-button').style.display = 'initial';
+    }
+    function showOnlyFavorites() {
+        var books = document.getElementsByClassName('book');
+        for (let book of books) {
+            book.style.display = 'none';
+        }
+        var books = document.getElementsByClassName('rating-5');
+        for (let book of books) {
+            book.style.display = '';
+        }
+        document.getElementById('show-button').style.display = 'initial';
+        document.getElementById('hide-button').style.display = 'none';
+    }
+    function setupButtons() {
+        document.getElementById('show-button').onclick = showAllBooks;
+        document.getElementById('hide-button').onclick = showOnlyFavorites;
+        document.getElementById('show-button').style.display = 'none';
+        document.getElementById('hide-button').style.display = 'initial';
+    }
+    document.addEventListener('DOMContentLoaded', setupButtons);
+</script>
+
 <h2>Reading</h2>
 <p>I try to read every day, and my goal this year is 36 books (3 per month). I try to read a wide variety of books, fiction and non-fiction, different genres, male and female authors, old and new, owned and borrowed, paper and ebook, and so on. But I keep coming back to SciFi and Fantasy.</p>
 
 <p>Here is what I've read recently:</p>
 
+<button id="hide-button" class="show-hide-button">Show only favorites</button>
+<button id="show-button" class="show-hide-button">Show all books</button>
 {% for year in site.data.reading %}
 <hr>
 <h3>{{ year.year }}</h3>
 {% for book in year.books %}
-<div class="book">
+<div class="book rating-{{ book.rating }}">
 <div class="book-cover">
     <img src="/{{site.baseurl}}assets/images/books/placeholder.png" alt="Cover for {{ book.title }}">
 </div>
