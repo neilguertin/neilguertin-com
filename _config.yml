@@ -33,4 +33,7 @@ compress_html:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
   - assets/images/reading_original_covers
