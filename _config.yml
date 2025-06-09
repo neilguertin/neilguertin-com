@@ -32,3 +32,5 @@ compress_html:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - assets/images/reading_original_covers

@@ -4,10 +4,11 @@
       author: J. D. Robb
       pages: 357
       rating: 2
-    - title: "Kinauvit?: What’s Your Name?"
-      author: Dr. Norma Dunning
+    - title: "Kinauvit?: What's Your Name?"
+      author: Norma Dunning
       pages: 152
       rating: 3
+      imgsrc: "Norma Dunning - Kinauvit%3F: What's Your Name%3F.jpg"
     - title: The Way the Crow Flies
       author: Ann-Marie MacDonald
       pages: 805
@@ -20,6 +21,7 @@
       author: Douglas Hofstadter
       pages: 705
       rating: 2
+      imgsrc: placeholder.png
     - title: Towers of Midnight
       author: Robert Jordan and Brandon Sanderson
       pages: 1218
@@ -36,7 +38,7 @@
       author: Cory Doctorow
       pages: 359.6
       rating: 3
-    - title: The Adventures of Sherlock Homes
+    - title: The Adventures of Sherlock Holmes
       author: Arthur Conan Doyle
       pages: 334
       rating: 3
@@ -58,7 +60,7 @@
       author: Cory Doctorow
       pages: 323.2
       rating: 4
-    - title: "The Diamond Age: Or, A Young Lady’s Illustrated Primer"
+    - title: "The Diamond Age: Or, A Young Lady's Illustrated Primer"
       author: Neal Stephenson
       pages: 497
       rating: 3
@@ -110,8 +112,8 @@
       author: Jasper Fforde
       pages: 375
       rating: 4
-    - title: A Wrinkle In Time
-      author: Madeleine L’Engle
+    - title: A Wrinkle in Time
+      author: Madeleine L'Engle
       pages: 226
       rating: 3
     - title: "Arctic Convoys: Bletchley Park and the War for the Seas"
@@ -142,7 +144,7 @@
       author: Charles Dickens
       pages: 507
       rating: 4
-    - title: "Colossus: Bletchley Park’s Greatest Secret"
+    - title: "Colossus: Bletchley Park's Greatest Secret"
       author: Paul Gannon
       pages: 506
       rating: 4
@@ -154,6 +156,7 @@
       author: Jasper Fforde
       pages: 399
       rating: 5
+      imgsrc: placeholder.png
     - title: The Girl Who Played With Fire
       author: Stieg Larsson
       pages: 494
@@ -172,10 +175,12 @@
       author: William Goldman
       pages: 458
       rating: 4
+      imgsrc: placeholder.png
     - title: Neverwhere
       author: Neil Gaiman
       pages: 305
       rating: 4
+      imgsrc: placeholder.png
     - title: An Abundance of Katherines
       author: John Green
       pages: 224
@@ -184,10 +189,6 @@
       author: Amal El-Mohtar and Max Gladstone
       pages: 198
       rating: 5
-    - title: The Athlete’s Gut
-      author: Patrick Wilson
-      pages: 244
-      rating: 2
     - title: Good Omens
       author: Terry Pratchett & Neil Gaiman
       pages: 394
@@ -208,7 +209,7 @@
       author: Katie Mack
       pages: 215
       rating: 3
-    - title: The Frugal Wizard’s Handbook for Surviving Medieval England
+    - title: The Frugal Wizard's Handbook for Surviving Medieval England
       author: Brandon Sanderson
       pages: 355
       rating: 4
@@ -254,6 +255,7 @@
       author: Nicole Galland and Neal Stephenson
       pages: 742
       rating: 5
+      imgsrc: placeholder.png
     - title: Crossroads of Twilight
       author: Robert Jordan
       pages: 823
@@ -266,3 +268,4 @@
       author: Cory Doctorow
       pages: 324
       rating: 3
+      imgsrc: "Cory Doctorow - Little Brother & Homeland.jpg"

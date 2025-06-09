@@ -17,7 +17,7 @@ permalink: /reading
 }
 .book-cover img {
     height: 150px;
-    width: 150px;
+    width: auto;
     max-height: 100%;
     max-width: 100%;
 }
@@ -71,7 +71,12 @@ permalink: /reading
 {% for book in year.books %}
 <div class="book rating-{{ book.rating }}">
 <div class="book-cover">
-    <img src="/{{site.baseurl}}assets/images/books/placeholder.png" alt="Cover for {{ book.title }}">
+    {% if book.imgsrc %}
+        {% capture imgsrc %}{{ book.imgsrc }}{% endcapture %}
+    {% else %}
+        {% capture imgsrc %}{{ book.author }} - {{ book.title }}.jpg{% endcapture %}
+    {% endif %}
+    <img src="/{{site.baseurl}}assets/images/reading/{{ imgsrc }}" alt="Cover for {{ book.title }}" onerror="this.onerror=null; this.original_src=this.src; this.src='/{{site.baseurl}}assets/images/reading/placeholder.png'">
 </div>
 <div class="book-info">
 <b>{{ book.title }}</b><br>
