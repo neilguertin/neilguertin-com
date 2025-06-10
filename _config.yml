@@ -1,7 +1,7 @@
 title: Neil Guertin
 # tagline: 
 # description: 
-baseurl: "/neilguertin-com" # Set to "/neilguertin-com" when using GitHub Pages default url (https://neilguertin.github.io/neilguertin-com/). Set to "" when using custom domain name (https://www.neilguertin.com/). When baseurl is set, run locally with `bundle exec jekyll serve --livereload --baseurl=""`
+baseurl: "" # Set to "/neilguertin-com" when using GitHub Pages default url (https://neilguertin.github.io/neilguertin-com/). Set to "" when using custom domain name (https://www.neilguertin.com/). When baseurl is set, run locally with `bundle exec jekyll serve --livereload --baseurl=""`
 url: "https://www.neilguertin.com"
 
 # tagline:
