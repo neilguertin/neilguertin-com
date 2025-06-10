@@ -28,14 +28,11 @@ nav ul li a:hover {
 
 /* Current page */
 #body-home #navbar-home,
-#body-about #navbar-about,
 #body-projects #navbar-projects,
-#body-dotfiles #navbar-dotfiles,
 #body-resume #navbar-resume,
-#body-hiking #navbar-hiking,
-#body-running #navbar-running,
 #body-reading #navbar-reading,
-#body-bookmarks #navbar-bookmarks {
+#body-bookmarks #navbar-bookmarks,
+#body-contact #navbar-contact {
     border-top: 2px solid var(--col_content_bold);
     border-bottom: 2px solid var(--col_content_bold);
 }

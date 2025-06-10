@@ -1,0 +1,24 @@
+---
+layout: default
+title: Contact
+permalink: /contact
+id: contact
+---
+<script>
+    function showEmail() {
+        span = document.getElementById("email");
+        span.innerHTML = "neil"+"guertin"+"@"+"neil"+"guertin"+"."+"com";
+    }
+    function showSignal() {
+        span = document.getElementById("signal");
+        span.innerHTML = "neil"+"."+"57";
+    }
+</script>
+<h2>Contact</h2>
+<ul>
+    <li>Email: <span id=email><button onclick="showEmail()">Click to reveal</button></span></li>
+    <li>Signal: <span id=signal><button onclick="showSignal()">Click to reveal</button></span></li>
+    <li><a href="https://www.linkedin.com/in/neil-guertin-a3a09491/">LinkedIn</a></li>
+    <li><a href="https://github.com/neilguertin/">GitHub</a></li>
+    <li><a href="https://www.strava.com/athletes/42458687">Strava</a></li>
+</ul>
