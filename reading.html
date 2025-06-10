@@ -80,7 +80,7 @@ permalink: /reading
     {% else %}
         {% capture imgsrc %}{{ book.author }} - {{ book.title }}.jpg{% endcapture %}
     {% endif %}
-    <img src="/{{site.baseurl}}assets/images/reading/{{ imgsrc }}" alt="Cover for {{ book.title }}" onerror="this.onerror=null; this.original_src=this.src; this.src='/{{site.baseurl}}assets/images/reading/placeholder.png'">
+    <img src="{{site.baseurl}}/assets/images/reading/{{ imgsrc }}" alt="Cover for {{ book.title }}" onerror="this.onerror=null; this.original_src=this.src; this.src='{{site.baseurl}}/assets/images/reading/placeholder.png'">
 </div>
 <div class="book-info">
 <b>{{ book.title }}</b><br>
