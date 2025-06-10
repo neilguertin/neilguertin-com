@@ -1,5 +1,5 @@
 - title: Big Picture
-  links:
+  bookmarks:
     - title: The Coming Software Apocalypse
       href: "https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/"
       goldstar: true
@@ -71,7 +71,7 @@
         - Security
 
 - title: True Stories
-  links:
+  bookmarks:
     - title: The Story of Mel
       href: "http://www.catb.org/jargon/html/story-of-mel.html"
       tags: 
@@ -114,7 +114,7 @@
       tags: 
 
 - title: Bug Hunts
-  links:
+  bookmarks:
     - title: I Saw An Extremely Subtle Bug Today And I Just Have To Tell Someone
       href: "http://www.kalzumeus.com/2011/11/17/i-saw-an-extremely-subtle-bug-today-and-i-just-have-to-tell-someone/"
       tags: 
@@ -149,7 +149,7 @@
       tags: 
 
 - title: Rants
-  links:
+  bookmarks:
     - title: The Night Watch
       href: "https://www.usenix.org/system/files/1311_05-08_mickens.pdf"
       tags: 
@@ -217,7 +217,7 @@
         - AI
 
 - title: Humor
-  links:
+  bookmarks:
     - title: Typing the technical interview
       href: "https://aphyr.com/posts/342-typing-the-technical-interview"
       tags:
@@ -264,7 +264,7 @@
       tags: 
 
 - title: Teaching
-  links:
+  bookmarks:
     - title: "Every Layout: Relearn CSS layout by example (Rudiments and Axioms)"
       href: "https://every-layout.dev/rudiments/"
       tags:
@@ -282,7 +282,7 @@
       tags: 
 
 - title: Other Stuff
-  links:
+  bookmarks:
     - title: The Mathematics of the Pentium Division Bug
       href: "http://www-math.mit.edu/~edelman/homepage/papers/pentiumbug.pdf"
       tags: 
@@ -355,7 +355,7 @@
       tags: 
 
 - title: Blogs
-  links:
+  bookmarks:
     - title: Zach Holman
       href: "https://zachholman.com/"
       tags: 
@@ -383,7 +383,7 @@
       tags: 
 
 - title: Books
-  links:
+  bookmarks:
     - title: "Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter"
       href: "https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach"
       tags: 

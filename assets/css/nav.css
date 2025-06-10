@@ -35,7 +35,7 @@ nav ul li a:hover {
 #body-hiking #navbar-hiking,
 #body-running #navbar-running,
 #body-reading #navbar-reading,
-#body-links #navbar-links {
+#body-bookmarks #navbar-bookmarks {
     border-top: 2px solid var(--col_content_bold);
     border-bottom: 2px solid var(--col_content_bold);
 }
