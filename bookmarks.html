@@ -14,8 +14,10 @@ Basically just a public bookmarks list of computing articles I found interesting
 
 {% for category in site.data.bookmarks %}
 <h3>{{category.title}}</h3>
-    {% for bookmark in category.bookmarks %}
-    <li{% if bookmark.goldstar %} class=goldstar{% endif %}>
+    {% assign bookmarks_sorted = category.bookmarks | sort: "year" | reverse %}
+    {% for bookmark in bookmarks_sorted %}
+    <li{% if bookmark.goldstar %} class="goldstar"{% endif %}>
+        <!--<span>({{ bookmark.year }})</span>-->
         {% for tag in bookmark.tags %}<span>[{{tag}}]</span>{% endfor %}
         <a href="{{bookmark.href}}">{{bookmark.title}}</a>
     </li>
