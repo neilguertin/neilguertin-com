@@ -302,24 +302,6 @@
         - C/C++
       year: 2009
 
-- title: Teaching
-  bookmarks:
-    - title: "Every Layout: Relearn CSS layout by example (Rudiments and Axioms)"
-      href: "https://every-layout.dev/rudiments/"
-      tags:
-      - CSS
-    - title: Learn Vimscript the Hard Way by Steve Losh
-      href: "http://learnvimscriptthehardway.stevelosh.com/"
-      tags:
-        - Vimscript
-    - title: Modern Git Commands and Features You Should Be Using
-      href: "https://martinheinz.dev/blog/109"
-      tags:
-        - Git
-    - title: Email explained from first principles
-      href: "https://explained-from-first-principles.com/email/"
-      tags: 
-
 - title: Other Stuff
   bookmarks:
     - title: The Mathematics of the Pentium Division Bug
@@ -417,49 +399,28 @@
       tags: 
       year: 2018
 
-- title: Blogs
+- title: Learning
   bookmarks:
-    - title: Zach Holman
-      href: "https://zachholman.com/"
-      tags: 
-    - title: Joel on Software
-      href: "https://www.joelonsoftware.com/"
-      tags: 
-    - title: Coding Horror
-      href: "https://blog.codinghorror.com/"
-      tags: 
-    - title: The Daily WTF
-      href: "http://thedailywtf.com/"
-      tags: 
-    - title: Math ∩ Programming
-      href: "https://jeremykun.com/"
-      tags: 
-    - title: DataGenetics
-      href: "http://datagenetics.com/blog.html"
-      tags: 
-    - title: Computerphile
-      href: "https://www.youtube.com/user/Computerphile"
+    - title: "Every Layout: Relearn CSS layout by example (Rudiments and Axioms)"
+      href: "https://every-layout.dev/rudiments/"
       tags:
-        - Video
-    - title: Simon Tatham
-      href: "https://www.chiark.greenend.org.uk/~sgtatham/"
-      tags: 
-
-- title: Books
-  bookmarks:
-    - title: "Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter"
-      href: "https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach"
-      tags: 
-    - title: "Alan Turing: The Enigma by Andrew Hodges"
-      href: "https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma"
-      tags: 
-    - title: Numerical Computing with MATLAB by Cleve Moler
-      href: "https://www.mathworks.com/moler/chapters.html"
+      - CSS
+    - title: Learn Vimscript the Hard Way by Steve Losh
+      href: "http://learnvimscriptthehardway.stevelosh.com/"
+      tags:
+        - Vimscript
+    - title: Modern Git Commands and Features You Should Be Using
+      href: "https://martinheinz.dev/blog/109"
+      tags:
+        - Git
+    - title: Email explained from first principles
+      href: "https://explained-from-first-principles.com/email/"
       tags: 
     - title: Algorithms by Jeff Erickson
       href: "http://jeffe.cs.illinois.edu/teaching/algorithms/"
       tags: 
+      year: 2019
     - title: The Fuzzing Book by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
       href: "https://www.fuzzingbook.org/"
       tags: 
-
+      year: 2019
