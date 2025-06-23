@@ -18,13 +18,10 @@
       tags:
         - C++
     - title: There Is a Subtle Power Struggle for Control of Music Metadata
-      href: "https://motherboard.vice.com/en_us/article/pgkajz/there-is-a-subtle-power-struggle-for-control-of-music-metadata"
+      href: "https://www.vice.com/en/article/there-is-a-subtle-power-struggle-for-control-of-music-metadata/"
       tags: 
     - title: Software disenchantment
       href: "http://tonsky.me/blog/disenchantment/"
-      tags: 
-    - title: The Website Obesity Crisis
-      href: "http://idlewords.com/talks/website_obesity.htm"
       tags: 
     - title: A hacker stole $31M of Ether - how it happened and what it means for Ethereum
       href: "http://haseebq.com/a-hacker-stole-31m-of-ether/"
@@ -32,10 +29,6 @@
     - title: Being Glue
       href: "https://www.slideshare.net/TanyaReilly/being-glue"
       tags: 
-    - title: Car Wars
-      href: "http://this.deakin.edu.au/lifestyle/car-wars"
-      tags:
-        - Free Software
     - title: "C++Now 2018: Mark Zeren \"-Os Matters\""
       href: "https://www.youtube.com/watch?v=vGV5u1nxqd8"
       tags:
@@ -57,6 +50,7 @@
       href: "https://pluralistic.net/2024/02/05/cyber-dunning-kruger/"
       tags:
         - Security
+      goldstar: true
     - title: AI isn't useless. But is it worth it?
       href: "https://www.citationneeded.news/ai-isnt-useless/"
       tags:
@@ -82,7 +76,7 @@
       href: "http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/"
       tags: 
     - title: How Pixar's Toy Story 2 was deleted twice, once by technology and again for its own good
-      href: "https://thenextweb.com/media/2012/05/21/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good/"
+      href: "https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good"
       tags: 
     - title: My First BillG Review
       href: "https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/"
@@ -92,15 +86,11 @@
       tags:
         - MATLAB
     - title: Why does Outlook map Ctrl+F to Forward instead of Find, like all right-thinking programs?
-      href: "https://blogs.msdn.microsoft.com/oldnewthing/20140715-00/?p=503/"
+      href: "https://devblogs.microsoft.com/oldnewthing/20140715-00/?p=503"
       tags: 
     - title: SJ Games vs. the Secret Service
       href: "http://www.sjgames.com/SS/"
       tags: 
-    - title: "Defcon 18 - Pwned By the owner: What happens when you steal a hackers computer zoz part"
-      href: "https://www.youtube.com/watch?v=U4oB28ksiIo"
-      tags:
-        - Video
     - title: Project Code Rush - The Beginnings of Netscape / Mozilla Documentary
       href: "https://www.youtube.com/watch?v=4Q7FTjhvZ7Y"
       tags:
@@ -131,7 +121,7 @@
       href: "https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c"
       tags: 
     - title: Curiously Recurring C++ Bugs at Facebook
-      href: "https://www.youtube.com/watch?v=3MB2iiCkGxg"
+      href: "https://www.youtube.com/watch?v=lkgszkPnV8g"
       tags:
         - Video
         - C++
@@ -170,23 +160,19 @@
       tags:
         - .psd
     - title: Are FOR Loops the Embodiment of Pure Evil?
-      href: "http://www.idlcoyote.com/tips/forloops.html"
+      href: "https://web.archive.org/web/20110509052606/www.idlcoyote.com/tips/forloops.html"
       tags:
         - IDL
     - title: Motherfucking Website
       href: "http://motherfuckingwebsite.com/"
       tags: 
     - title: Dear Developer, The Web Isn't About You
-      href: "https://sonniesedge.co.uk/talks/dear-developer"
+      href: "https://web.archive.org/web/20180405200004/https://sonniesedge.co.uk/talks/dear-developer"
       tags: 
     - title: Object-Oriented Programming is Bad
       href: "https://www.youtube.com/watch?v=QM1iUe6IofM"
       tags:
         - Video
-    - title: Typing delay experiment
-      href: "http://input-delay.glitch.me/"
-      tags:
-        - UX
     - title: Stop Using Encrypted Email
       href: "https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html"
       tags: 
@@ -194,12 +180,6 @@
       href: "http://blog.preinheimer.com/index.php?/archives/372-An-end-to-if-statements-presented-by-Computers.html"
       tags:
         - UX
-    - title: I’m harvesting credit card numbers and passwords from your site. Here’s how.
-      href: "https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5"
-      tags: 
-    - title: "Part 2: How to stop me harvesting credit card numbers and passwords from your site"
-      href: "https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9"
-      tags: 
     - title: After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.
       href: "https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html"
       tags: 
@@ -215,6 +195,9 @@
       href: "https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/"
       tags:
         - AI
+    - title: The Website Obesity Crisis
+      href: "http://idlewords.com/talks/website_obesity.htm"
+      tags: 
 
 - title: Humor
   bookmarks:
@@ -227,9 +210,6 @@
       href: "https://medium.com/@jdan/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
       tags:
         - JavaScript
-    - title: Shooting yourself in the foot in various programming languages
-      href: "http://www.toodarkpark.org/computers/humor/shoot-self-in-foot.html"
-      tags: 
     - title: FizzBuzzEnterpriseEdition
       href: "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition"
       tags:
@@ -241,12 +221,6 @@
     - title: CREATORS ADMIT Unix, C HOAX
       href: "https://www.gnu.org/fun/jokes/unix-hoax.html"
       tags: 
-    - title: Our GNU/Lord and GNU/Savior
-      href: "https://rms.sexy/"
-      tags: 
-    - title: How Dr. Seuss would prove the halting problem undecidable
-      href: "http://ebiquity.umbc.edu/blogger/2008/01/19/how-dr-suess-would-prove-the-halting-problem-undecidable/"
-      tags: 
     - title: Wat
       href: "https://www.destroyallsoftware.com/talks/wat"
       tags:
@@ -256,12 +230,13 @@
       href: "https://gist.github.com/aras-p/6224951"
       tags:
         - C
-    - title: Telnet Song
-      href: "https://wonderingminstrels.blogspot.com/2004/01/telnet-song-guy-l-steele-jr.html"
-      tags: 
     - title: xmas.c
       href: "https://udel.edu/~mm/xmas/"
       tags: 
+    - title: "What is the \"-->\" operator in C++?"
+      href: "https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c"
+      tags:
+        - C/C++
 
 - title: Teaching
   bookmarks:
@@ -300,10 +275,6 @@
       href: "https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/"
       tags:
       - JPEG
-    - title: "What is the \"-->\" operator in C++?"
-      href: "https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c"
-      tags:
-        - C/C++
     - title: DEC64
       href: "http://dec64.com/"
       tags:
@@ -352,6 +323,16 @@
       tags: 
     - title: Flappy Bird implemented in MacOS Finder
       href: "https://eieio.games/nonsense/game-11-flappy-bird-finder/"
+      tags: 
+    - title: Typing delay experiment
+      href: "http://input-delay.glitch.me/"
+      tags:
+        - UX
+    - title: I’m harvesting credit card numbers and passwords from your site. Here’s how.
+      href: "https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5"
+      tags: 
+    - title: "Part 2: How to stop me harvesting credit card numbers and passwords from your site"
+      href: "https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9"
       tags: 
 
 - title: Blogs
