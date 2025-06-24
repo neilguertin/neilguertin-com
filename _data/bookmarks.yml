@@ -71,6 +71,9 @@
       tags:
         - Security
       year: 2014
+    - title: Never Forgive Them
+      href: "https://www.wheresyoured.at/never-forgive-them/"
+      year: 2024
 
 - title: True Stories
   bookmarks:
@@ -113,6 +116,14 @@
     - title: 10 things I learned making the fastest site in the world
       href: "https://medium.com/hackernoon/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
       year: 2016
+    - title: A Sneaky Phish Just Grabbed my Mailchimp Mailing List
+      href: "https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/"
+      tags:
+        - Security
+      year: 2025
+    - title: -2000 Lines Of Code
+      href: "https://www.folklore.org/Negative_2000_Lines_Of_Code.html"
+      year: 1982
 
 - title: Bug Hunts
   bookmarks:
@@ -220,6 +231,17 @@
     - title: The Website Obesity Crisis
       href: "http://idlewords.com/talks/website_obesity.htm"
       year: 2015
+    - title: Separation of concerns in a bug tracker
+      href: "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/"
+      year: 2024
+    - title: The byte order fallacy
+      href: "https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html?m=1"
+      year: 2012
+    - title: Just fucking use HTML
+      href: "https://justfuckingusehtml.com/"
+      year: 2025
+
+
 
 - title: Humor
   bookmarks:
@@ -266,6 +288,15 @@
       tags:
         - C/C++
       year: 2009
+    - title: "The Website is Down #1: Sales Guy vs. Web Dude"
+      href: "https://www.youtube.com/watch?v=uRGljemfwUE"
+      tags:
+        - Video
+      year: 2009
+    - title: The English Programming Language
+      href: "https://github.com/theletterf/english-lang"
+      year: 2023
+
 
 - title: Other Stuff
   bookmarks:
@@ -350,6 +381,17 @@
     - title: "Part 2: How to stop me harvesting credit card numbers and passwords from your site"
       href: "https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9"
       year: 2018
+    - title: Exploring Typst, a new typesetting system similar to LaTeX
+      href: "https://blog.jreyesr.com/posts/typst/"
+      tags:
+        - LaTeX
+      year: 2024
+    - title: Pure CSS Halftone Effect in 3 Declarations
+      href: "https://frontendmasters.com/blog/pure-css-halftone-effect-in-3-declarations/"
+      tags:
+        - CSS
+      year: 2024
+
 
 - title: Learning
   bookmarks:
@@ -373,3 +415,9 @@
     - title: The Fuzzing Book by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
       href: "https://www.fuzzingbook.org/"
       year: 2019
+    - title: Git For Ages 4 And Up
+      href: "https://www.youtube.com/watch?v=3m7BgIvC-uQ"
+      tags:
+        - Video
+        - Git
+      year: 2014
