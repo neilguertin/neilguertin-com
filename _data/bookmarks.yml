@@ -11,11 +11,9 @@
       year: 2016
     - title: The Law of Leaky Abstractions
       href: "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"
-      tags: 
       year: 2002
     - title: Technical Debt
       href: "https://www.martinfowler.com/bliki/TechnicalDebt.html"
-      tags: 
       year: 2019
     - title: The Problem with Programming
       href: "https://www.technologyreview.com/s/406923/the-problem-with-programming/"
@@ -24,19 +22,15 @@
       year: 2006
     - title: There Is a Subtle Power Struggle for Control of Music Metadata
       href: "https://www.vice.com/en/article/there-is-a-subtle-power-struggle-for-control-of-music-metadata/"
-      tags: 
       year: 2016
     - title: Software disenchantment
       href: "http://tonsky.me/blog/disenchantment/"
-      tags: 
       year: 2018
     - title: A hacker stole $31M of Ether - how it happened and what it means for Ethereum
       href: "http://haseebq.com/a-hacker-stole-31m-of-ether/"
-      tags: 
       year: 2017
     - title: Being Glue
       href: "https://www.slideshare.net/TanyaReilly/being-glue"
-      tags: 
       year: 2018
     - title: "C++Now 2018: Mark Zeren \"-Os Matters\""
       href: "https://www.youtube.com/watch?v=vGV5u1nxqd8"
@@ -46,19 +40,15 @@
       year: 2018
     - title: The Art of Comments
       href: "https://css-tricks.com/the-art-of-comments/"
-      tags: 
       year: 2017
     - title: "Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance"
       href: "https://www.eff.org/wp/behind-the-one-way-mirror"
-      tags: 
       year: 2019
     - title: What Colour are your bits?
       href: "https://ansuz.sooke.bc.ca/entry/23"
-      tags: 
       year: 2004
     - title: How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web
       href: "https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech"
-      tags: 
       year: 2022
     - title: "Cory Doctorow: How I got scammed"
       href: "https://pluralistic.net/2024/02/05/cyber-dunning-kruger/"
@@ -86,23 +76,18 @@
   bookmarks:
     - title: The Story of Mel
       href: "http://www.catb.org/jargon/html/story-of-mel.html"
-      tags: 
       year: 1983
     - title: The Infinitely Profitable Program
       href: "https://web.archive.org/web/20160723010250/peetm.com/blog/?p=55"
-      tags: 
       year: 2008
     - title: "The Ultimate Retaliation: Pranking My Roommate With Targeted Facebook Ads"
       href: "http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/"
-      tags: 
       year: 2014
     - title: How Pixar's Toy Story 2 was deleted twice, once by technology and again for its own good
       href: "https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good"
-      tags: 
       year: 2012
     - title: My First BillG Review
       href: "https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/"
-      tags: 
       year: 2006
     - title: The Story Behind the MATLAB Default Image
       href: "http://blogs.mathworks.com/steve/2006/10/17/the-story-behind-the-matlab-default-image/"
@@ -111,11 +96,9 @@
       year: 2006
     - title: Why does Outlook map Ctrl+F to Forward instead of Find, like all right-thinking programs?
       href: "https://devblogs.microsoft.com/oldnewthing/20140715-00/?p=503"
-      tags: 
       year: 2014
     - title: SJ Games vs. the Secret Service
       href: "http://www.sjgames.com/SS/"
-      tags: 
       year: 1994
     - title: Project Code Rush - The Beginnings of Netscape / Mozilla Documentary
       href: "https://www.youtube.com/watch?v=4Q7FTjhvZ7Y"
@@ -129,30 +112,24 @@
       year: 2018
     - title: 10 things I learned making the fastest site in the world
       href: "https://medium.com/hackernoon/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
-      tags: 
       year: 2016
 
 - title: Bug Hunts
   bookmarks:
     - title: I Saw An Extremely Subtle Bug Today And I Just Have To Tell Someone
       href: "http://www.kalzumeus.com/2011/11/17/i-saw-an-extremely-subtle-bug-today-and-i-just-have-to-tell-someone/"
-      tags: 
       year: 2011
     - title: How I found a bug in Intel Skylake processors
       href: "http://gallium.inria.fr/blog/intel-skylake-bug/"
-      tags: 
       year: 2017
     - title: The case of the 500-mile email
       href: "https://www.ibiblio.org/harris/500milemail.html"
-      tags: 
       year: 2002
     - title: STAMPing on event-stream
       href: "https://hillelwayne.com/post/stamping-on-eventstream/"
-      tags: 
       year: 2019
     - title: How I hacked hundreds of companies through their helpdesk
       href: "https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c"
-      tags: 
       year: 2017
     - title: Curiously Recurring C++ Bugs at Facebook
       href: "https://www.youtube.com/watch?v=lkgszkPnV8g"
@@ -162,26 +139,21 @@
       year: 2017
     - title: GPS Time Rollover Failures Keep Happening (But They’re Almost Done)
       href: "https://blog.fosketts.net/2019/04/06/gps-time-rollover-failures-keep-happening-but-theyre-almost-done/"
-      tags: 
       year: 2019
     - title: How to break everything by fuzz testing
       href: "https://chameth.com/break-everything-fuzz-testing/"
-      tags: 
       year: 2020
     - title: How I cut GTA Online loading times by 70%
       href: "https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/"
-      tags: 
       year: 2021
     - title: The curious case of the disappearing Polish S
       href: "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df"
-      tags: 
       year: 2015
 
 - title: Rants
   bookmarks:
     - title: The Night Watch
       href: "https://www.usenix.org/system/files/1311_05-08_mickens.pdf"
-      tags: 
       year: 2013
       goldstar: true
     - title: Programming Sucks
@@ -210,11 +182,9 @@
       year: 2011
     - title: Motherfucking Website
       href: "http://motherfuckingwebsite.com/"
-      tags: 
       year: 2013
     - title: Dear Developer, The Web Isn't About You
       href: "https://web.archive.org/web/20180405200004/https://sonniesedge.co.uk/talks/dear-developer"
-      tags: 
       year: 2018
     - title: Object-Oriented Programming is Bad
       href: "https://www.youtube.com/watch?v=QM1iUe6IofM"
@@ -223,7 +193,6 @@
       year: 2016
     - title: Stop Using Encrypted Email
       href: "https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html"
-      tags: 
       year: 2020
     - title: An end to if statements presented by Computers
       href: "http://blog.preinheimer.com/index.php?/archives/372-An-end-to-if-statements-presented-by-Computers.html"
@@ -232,7 +201,6 @@
       year: 2012
     - title: After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.
       href: "https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html"
-      tags: 
       year: 2022
     - title: JavaScript Bloat in 2024
       href: "https://tonsky.me/blog/js-bloat/"
@@ -242,7 +210,7 @@
     - title: "Hardest Problem in Computer Science: Centering Things"
       href: "https://tonsky.me/blog/centering/"
       tags:
-      - JS
+        - JS
       year: 2024
     - title: I Will Fucking Piledrive You If You Mention AI Again
       href: "https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/"
@@ -251,7 +219,6 @@
       year: 2024
     - title: The Website Obesity Crisis
       href: "http://idlewords.com/talks/website_obesity.htm"
-      tags: 
       year: 2015
 
 - title: Humor
@@ -279,7 +246,6 @@
       year: 2016
     - title: CREATORS ADMIT Unix, C HOAX
       href: "https://www.gnu.org/fun/jokes/unix-hoax.html"
-      tags: 
       year: 1991
     - title: Wat
       href: "https://www.destroyallsoftware.com/talks/wat"
@@ -294,7 +260,6 @@
       year: 2013
     - title: xmas.c
       href: "https://udel.edu/~mm/xmas/"
-      tags: 
       year: 2008
     - title: "What is the \"-->\" operator in C++?"
       href: "https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c"
@@ -306,15 +271,12 @@
   bookmarks:
     - title: The Mathematics of the Pentium Division Bug
       href: "http://www-math.mit.edu/~edelman/homepage/papers/pentiumbug.pdf"
-      tags: 
       year: 1997
     - title: The 8000th Busy Beaver number eludes ZF set theory
       href: "http://www.scottaaronson.com/blog/?p=2725"
-      tags: 
       year: 2016
     - title: "0x5f3759df"
       href: "http://h14s.p5r.org/2012/09/0x5f3759df.html"
-      tags: 
       year: 2012
     - title: A regular expression to check for prime numbers
       href: "http://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/"
@@ -324,7 +286,7 @@
     - title: "Lepton image compression: saving 22% losslessly from images at 15MB/s"
       href: "https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/"
       tags:
-      - JPEG
+        - JPEG
       year: 2016
     - title: DEC64
       href: "http://dec64.com/"
@@ -349,7 +311,6 @@
       year: 2019
     - title: Prince Of Persia Code Review
       href: "https://fabiensanglard.net/prince_of_persia/index.php"
-      tags: 
       year: 2013
     - title: Understanding Automatic Semicolon Insertion in JavaScript
       href: "http://www.bradoncode.com/blog/2015/08/26/javascript-semi-colon-insertion/"
@@ -358,18 +319,14 @@
       year: 2015
     - title: Tuple’s Pair Programming Guide
       href: "https://tuple.app/pair-programming-guide/"
-      tags: 
     - title: "Magic: the Gathering is Turing Complete"
       href: "https://www.toothycat.net/~hologram/Turing/index.html"
-      tags: 
       year: 2012
     - title: the secret life of NaN
       href: "https://anniecherkaev.com/the-secret-life-of-nan"
-      tags: 
       year: 2018
     - title: A curated list of falsehoods programmers believe in.
       href: "https://github.com/kdeldycke/awesome-falsehood"
-      tags: 
     - title: Clean Code - Uncle Bob
       href: "https://www.youtube.com/watch?v=7EmboKQH8lM"
       tags:
@@ -377,14 +334,11 @@
       year: 2019
     - title: Incomplete List of Mistakes in the Design of CSS
       href: "https://wiki.csswg.org/ideas/mistakes"
-      tags: 
     - title: The (Mostly) Complete Unicode Spiral
       href: "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/"
-      tags: 
       year: 2022
     - title: Flappy Bird implemented in MacOS Finder
       href: "https://eieio.games/nonsense/game-11-flappy-bird-finder/"
-      tags: 
       year: 2023
     - title: Typing delay experiment
       href: "http://input-delay.glitch.me/"
@@ -392,11 +346,9 @@
         - UX
     - title: I’m harvesting credit card numbers and passwords from your site. Here’s how.
       href: "https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5"
-      tags: 
       year: 2018
     - title: "Part 2: How to stop me harvesting credit card numbers and passwords from your site"
       href: "https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9"
-      tags: 
       year: 2018
 
 - title: Learning
@@ -415,12 +367,9 @@
         - Git
     - title: Email explained from first principles
       href: "https://explained-from-first-principles.com/email/"
-      tags: 
     - title: Algorithms by Jeff Erickson
       href: "http://jeffe.cs.illinois.edu/teaching/algorithms/"
-      tags: 
       year: 2019
     - title: The Fuzzing Book by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
       href: "https://www.fuzzingbook.org/"
-      tags: 
       year: 2019
