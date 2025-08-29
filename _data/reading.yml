@@ -1,5 +1,33 @@
 - year: 2025
   books:
+    - title: $ git commit murder
+      author: Michael Warren Lucas
+      pages: 271.2
+      rating: 3
+    - title: A Memory of Light
+      author: Robert Jordan and Brandon Sanderson
+      pages: 1147
+      rating: 5
+    - title: "Endurance: Shackleton's Incredible Voyage"
+      author: Alfred Lansing
+      pages: 331
+      rating: 4
+    - title: The Girl Who Kicked the Hornet's Nest
+      author: Stieg Larsson
+      pages: 556
+      rating: 4
+    - title: New Hampshire
+      author: Robert Frost
+      pages: 92.8
+      rating: 2
+    - title: You Sexy Thing
+      author: Cat Rambo
+      pages: 233.6
+      rating: 2
+    - title: The Ultimate Hitchhiker's Guide
+      author: Douglas Adams
+      pages: 794
+      rating: 5
     - title: Random in Death
       author: J. D. Robb
       pages: 357
