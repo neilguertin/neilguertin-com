@@ -1,5 +1,108 @@
+- year: 2026
+  books:
+    - title: A Midsummer Night's Dream
+      author: William Shakespeare
+      pages: 48
+      rating: 3
+    - title: Romeo and Juliet
+      author: William Shakespeare
+      pages: 70.8
+      rating: 3
+    - title: The Lord of the Rings Book I
+      author: J. R. R. Tolkien
+      pages: 219
+      rating: 4
+      imgsrc: J. R. R. Tolkien - The Lord of the Rings.jpg
+    - title: Paul a un travail d'été
+      author: Michel Rabagliati
+      pages: 145
+      rating: 5
+    - title: Dear Ana
+      author: i.i.e. read by Angela Goethals
+      pages: 448
+      rating: 3
+    - title: "Always Remember Your Name: A True Story of Family and Survival in Auschwitz"
+      author: Andra & Tatiana Bucci translated by Ann Goldstein read by Gabrielle de Cuir
+      pages: 133
+      rating: 4
+    - title: The Courage of Birds
+      author: Pete Dunne read by Madison Niederhauser
+      pages: 182.5
+      rating: 1
+    - title: Moby Dick
+      author: Herman Melville
+      pages: 730.4
+      rating: 4
+    - title: La complicité des fjords
+      author: Victor Begin
+      pages: 184
+      rating: 2
 - year: 2025
   books:
+    - title: Simon the Fiddler
+      author: Paulette Jiles read by Grover Gardner
+      pages: 349.5
+      rating: 3
+    - title: The Hobbit
+      author: J. R. R. Tolkien
+      pages: 357
+      rating: 3
+    - title: Isles of the Emberdark
+      author: Brandon Sanderson
+      pages: 419
+      rating: 4
+    - title: Frankenstein
+      author: Mary Shelley
+      pages: 255.2
+      rating: 4
+    - title: The Canadian Miracle
+      author: Cory Doctorow
+      pages: 12.4
+      rating: 4
+    - title: The Life of Birds
+      author: David Attenborough
+      pages: 299.5
+      rating: 2
+    - title: "Breakaway: The PWHL and the Women Who Changed the Game"
+      author: Karissa Donkin
+      pages: 221
+      rating: 3
+    - title: "Ukkusiksalik: The People's Story"
+      author: David F. Pelly
+      pages: 208
+      rating: 2
+    - title: Gödel's Proof
+      author: Ernest Nagel and James R. Newman
+      pages: 100
+      rating: 3
+    - title: The Berry Pickers
+      author: Amanda Peters
+      pages: 292
+      rating: 4
+    - title: In a House of Lies
+      author: Ian Rankin read by James MacPherson
+      pages: 349.5
+      rating: 4
+    - title: White Fang
+      author: Jack London
+      pages: 232.4
+      rating: 4
+    - title: The Call of the Wild
+      author: Jack London
+      pages: 99.6
+      rating: 3
+    - title: The Left Hand of Darkness
+      author: Ursula K. Le Guin
+      pages: 343
+      rating: 5
+    - title: Jeeves Stories
+      author: P. G. Wodehouse
+      pages: 577.2
+      rating: 3
+    - title: A Short History of Nearly Everything
+      author: Bill Bryson
+      pages: 461
+      rating: 2
     - title: $ git commit murder
       author: Michael Warren Lucas
       pages: 271.2

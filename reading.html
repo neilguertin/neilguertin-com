@@ -18,6 +18,7 @@ permalink: /reading
     vertical-align: top;
     height: 150px;
     width: 150px;
+    text-align: center;
 }
 .book-cover img {
     height: 150px;
@@ -28,6 +29,8 @@ permalink: /reading
 .book-info {
     display: inline-block;
     vertical-align: top;
+    max-width: calc(100% - 200px);
+    padding-left: 10px;
 }
 </style>
 
@@ -67,9 +70,9 @@ permalink: /reading
 </script>
 
 <h2>Reading</h2>
-<p>I try to read every day, and my goal this year is 36 books (3 per month). I try to read a wide variety of books, fiction and non-fiction, old and new, different genres, male and female authors, owned and borrowed, paper and ebook, and so on. But I keep coming back to SciFi and Fantasy.</p>
+<p>I try to read every day, and my goal this year is 48 books (4 per month). I try to read a wide variety of books, fiction and non-fiction, old and new, different genres, male and female authors, owned and borrowed, paper and ebook, and so on. But I keep coming back to SciFi and Fantasy.</p>
 
-<p>Here is what I've read recently:</p>
+<p>Here is what I've read recently. Talk to me about any of them!</p>
 
 <button id="hide-button" class="show-hide-button">Show only favorites</button>
 <button id="show-button" class="show-hide-button">Show all books</button>
@@ -92,6 +95,7 @@ permalink: /reading
 {{ book.pages | floor }} pages<br>
 {% for i in (1..book.rating) %}★{% endfor %}{% for i in (book.rating..4) %}☆{% endfor %}
 {% if book.review %}<p>{{ book.review }}</p>{% endif %}
+<!--<br>{{ imgsrc }}-->
 </div>
 </div>
 {% endfor %}
