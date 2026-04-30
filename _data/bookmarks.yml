@@ -135,9 +135,6 @@
     - title: -2000 Lines Of Code
       href: "https://www.folklore.org/Negative_2000_Lines_Of_Code.html"
       year: 1982
-    - title: How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked
-      href: https://web.archive.org/web/20260330184617/https://blog.pixelmelt.dev/kindle-web-drm/
-      year: 2025
     - title: My Dinner With AI
       href: https://www.grumpygamer.com/my_dinner_with_ai/
       year: 2026
@@ -338,6 +335,33 @@
       tags:
         - AI
 
+- title: Cool Projects
+  bookmarks:
+    - title: On The Turing Completeness of PowerPoint
+      href: "https://www.youtube.com/watch?v=uNjxe8ShM-8"
+      tags:
+        - Video
+      year: 2017
+    - title: The (Mostly) Complete Unicode Spiral
+      href: "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/"
+      year: 2022
+      tags:
+        - Unicode
+    - title: Flappy Bird implemented in MacOS Finder
+      href: "https://eieio.games/nonsense/game-11-flappy-bird-finder/"
+      year: 2023
+    - title: Pure CSS Halftone Effect in 3 Declarations
+      href: "https://frontendmasters.com/blog/pure-css-halftone-effect-in-3-declarations/"
+      tags:
+        - CSS
+      year: 2024
+    - title: "ASCII characters are not pixels: a deep dive into ASCII rendering"
+      href: https://alexharri.com/blog/ascii-rendering
+      year: 2026
+    - title: How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked
+      href: https://web.archive.org/web/20260330184617/https://blog.pixelmelt.dev/kindle-web-drm/
+      year: 2025
+
 
 - title: Other Stuff
   bookmarks:
@@ -370,11 +394,6 @@
       tags:
         - Vim
       year: 2011
-    - title: On The Turing Completeness of PowerPoint
-      href: "https://www.youtube.com/watch?v=uNjxe8ShM-8"
-      tags:
-        - Video
-      year: 2017
     - title: How I'm able to take notes in mathematics lectures using LaTeX and Vim
       href: "https://castel.dev/post/lecture-notes-1/"
       tags:
@@ -406,12 +425,6 @@
       year: 2019
     - title: Incomplete List of Mistakes in the Design of CSS
       href: "https://wiki.csswg.org/ideas/mistakes"
-    - title: The (Mostly) Complete Unicode Spiral
-      href: "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/"
-      year: 2022
-    - title: Flappy Bird implemented in MacOS Finder
-      href: "https://eieio.games/nonsense/game-11-flappy-bird-finder/"
-      year: 2023
     - title: Typing delay experiment
       href: "http://input-delay.glitch.me/"
       tags:
@@ -427,29 +440,16 @@
       tags:
         - LaTeX
       year: 2024
-    - title: Pure CSS Halftone Effect in 3 Declarations
-      href: "https://frontendmasters.com/blog/pure-css-halftone-effect-in-3-declarations/"
-      tags:
-        - CSS
-      year: 2024
     - title: Dark corners of Unicode
       href: https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/
       year: 2015
       tags:
         - Unicode
-    - title: "ASCII characters are not pixels: a deep dive into ASCII rendering"
-      href: https://alexharri.com/blog/ascii-rendering
-      year: 2026
     - title: Using git while trans
       href: https://code.curly.kiwi/2026/02/27/using-git-while-trans/
       year: 2026
       tags:
         - git
-    - title: Modern Font Stacks
-      href: https://modernfontstacks.com/
-      year: 2023
-    - title: Yellow Lab Tools
-      href: https://yellowlab.tools/
     - title: (One) Good AI Is Here
       href: https://www.anildash.com/2026/04/28/one-good-ai-is-here/
       year: 2026
@@ -488,3 +488,11 @@
       tags:
         - COBOL
       year: 2018
+
+- title: Resources
+  bookmarks:
+    - title: Modern Font Stacks
+      href: https://modernfontstacks.com/
+      year: 2023
+    - title: Yellow Lab Tools
+      href: https://yellowlab.tools/
