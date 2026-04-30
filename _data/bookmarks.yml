@@ -74,6 +74,17 @@
     - title: Never Forgive Them
       href: "https://www.wheresyoured.at/never-forgive-them/"
       year: 2024
+    - title: The Code That Controls Your Money
+      href: https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money
+      year: 2020
+      tags:
+        - COBOL
+    - title: The Configuration Complexity Clock
+      href: http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html?m=1
+      year: 2012
+    - title: The Debugging Mindset That Turned Me Into a Better Coder
+      href: https://dev.to/leena_malhotra/the-debugging-mindset-that-turned-me-into-a-better-coder-3g8a
+      year: 2025
 
 - title: True Stories
   bookmarks:
@@ -124,6 +135,14 @@
     - title: -2000 Lines Of Code
       href: "https://www.folklore.org/Negative_2000_Lines_Of_Code.html"
       year: 1982
+    - title: How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked
+      href: https://web.archive.org/web/20260330184617/https://blog.pixelmelt.dev/kindle-web-drm/
+      year: 2025
+    - title: My Dinner With AI
+      href: https://www.grumpygamer.com/my_dinner_with_ai/
+      year: 2026
+      tags:
+        - AI
 
 - title: Bug Hunts
   bookmarks:
@@ -160,6 +179,9 @@
     - title: The curious case of the disappearing Polish S
       href: "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df"
       year: 2015
+    - title: Dark patterns killed my wife’s Windows 11 installation
+      href: https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/
+      year: 2025
 
 - title: Rants
   bookmarks:
@@ -240,7 +262,11 @@
     - title: Just fucking use HTML
       href: "https://justfuckingusehtml.com/"
       year: 2025
-
+    - title: It’s hard to justify Tahoe icons
+      href: https://tonsky.me/blog/tahoe-icons/
+      year: 2026
+      tags:
+        - UX
 
 
 - title: Humor
@@ -296,6 +322,21 @@
     - title: The English Programming Language
       href: "https://github.com/theletterf/english-lang"
       year: 2023
+    - title: Replication of Quantum Factorisation Records with an 8-bit Home Computer, an Abacus, and a Dog
+      href: https://eprint.iacr.org/2025/1237.pdf
+      year: 2025
+      tags:
+        - Quantum
+    - title: "Book Review: The Great Gatsby by the Xerox 914 Photocopier"
+      href: https://www.mcsweeneys.net/articles/book-review-the-great-gatsby-by-the-xerox-914-photocopier
+      year: 2024
+      tags:
+        - AI
+    - title: RFC 406i - The Rejection of Artificially Generated Slop (RAGS)
+      href: https://406.fail/
+      year: 2026
+      tags:
+        - AI
 
 
 - title: Other Stuff
@@ -391,6 +432,27 @@
       tags:
         - CSS
       year: 2024
+    - title: Dark corners of Unicode
+      href: https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/
+      year: 2015
+      tags:
+        - Unicode
+    - title: "ASCII characters are not pixels: a deep dive into ASCII rendering"
+      href: https://alexharri.com/blog/ascii-rendering
+      year: 2026
+    - title: Using git while trans
+      href: https://code.curly.kiwi/2026/02/27/using-git-while-trans/
+      year: 2026
+      tags:
+        - git
+    - title: Modern Font Stacks
+      href: https://modernfontstacks.com/
+      year: 2023
+    - title: Yellow Lab Tools
+      href: https://yellowlab.tools/
+    - title: (One) Good AI Is Here
+      href: https://www.anildash.com/2026/04/28/one-good-ai-is-here/
+      year: 2026
 
 
 - title: Learning
@@ -421,3 +483,8 @@
         - Video
         - Git
       year: 2014
+    - title: 7 Cobol Examples
+      href: https://yvanscher.com/writing/7_cobol_examples
+      tags:
+        - COBOL
+      year: 2018
