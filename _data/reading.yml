@@ -1,9 +1,38 @@
 - year: 2026
   books:
+    - title: Paul au parc
+      author: Michel Rabagliati
+      pages: 117
+      rating: 4
+    - title: A Drink Before the War
+      author: Dennis Lehane read by Jonathan Davis
+      pages: 264
+      rating: 4
+    - title: For the Sun After Long Nights
+      author: Fatemeh Jamalpour & Nilo Tabrizy
+      pages: 256
+      rating: 3
+    - title: The Lord of the Rings Book II
+      author: J. R. R. Tolkien
+      pages: 193
+      rating: 3
+      imgsrc: J. R. R. Tolkien - The Fellowship of the Ring.jpg
+    - title: Life After Cars
+      author: Sara Goodyear, Doug Gordon, and Aaron Naparstek
+      pages: 231
+      rating: 3
+    - title: One Summer in Little Penhaven
+      author: Angela Britnell read by Francine Brody
+      pages: 245.5
+      rating: 1
     - title: A Midsummer Night's Dream
       author: William Shakespeare
       pages: 48
       rating: 3
+    - title: $ git sync murder
+      author: Michael Warren Lucas
+      pages: 310.8
+      rating: 4
     - title: Romeo and Juliet
       author: William Shakespeare
       pages: 70.8
@@ -12,7 +41,7 @@
       author: J. R. R. Tolkien
       pages: 219
       rating: 4
-      imgsrc: J. R. R. Tolkien - The Lord of the Rings.jpg
+      imgsrc: J. R. R. Tolkien - The Fellowship of the Ring.jpg
     - title: Paul a un travail d'été
       author: Michel Rabagliati
       pages: 145
